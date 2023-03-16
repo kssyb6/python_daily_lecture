@@ -13,5 +13,7 @@ a link:
  - 이미지 테스트: <a href='test.md'>test.md</a>
 
 
+URL: https://github.com/kssyb6/python_daily_lecture/blob/main/test.md
+
 # day 2
 
