@@ -20,4 +20,4 @@ URL: https://github.com/kssyb6/python_daily_lecture/blob/main/test.md
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kssyb6&show_icons=true&theme=radical)
